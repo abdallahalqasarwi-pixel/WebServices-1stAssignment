@@ -29,3 +29,4 @@ Some APIs may enforce browser CORS or free-tier rate limits because this project
 ## Demo Authentication
 
 The `/auth` page uses the public Platzi Fake Store API for simple registration and JWT login testing. It is suitable for demos and assignments only; do not use real passwords with this public API.
+
